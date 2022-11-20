@@ -1,4 +1,4 @@
-# Node.js-TypeScript-Express-SettingUp-project
+# Node.js-TypeScript-SettingUp-project
 
 1. Инициализация проекта npm
    npm init (флаг "-y" - разрешить значения по умолчанию)
